@@ -39,7 +39,6 @@ Month: '01'
 Link: https://accidents-prediction.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/91886253/173427202-27e3da0c-92fe-4ed1-abe1-ba8082b1431b.png)
-
 **API Call**
 
 Post API: https://accidents-prediction.herokuapp.com/postapi/predict
