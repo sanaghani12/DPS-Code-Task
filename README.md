@@ -34,7 +34,7 @@ Type: 'insgesamt
 Year: '2021'
 Month: '01'
 
-**Application hosted:**
+**Application hosted**
 
 Link: https://accidents-prediction.herokuapp.com/
 
