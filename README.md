@@ -24,7 +24,7 @@ We see the model has improved significantly.
 
 **Input Values:** [0,0,1,2020,22,-20,27.27,37]
 **Regressor score:**  0.9832669606223889
-**Predicted value:**  [17] Actual Value: [28]
+**Predicted value:** **[17] Actual Value: [28]**
 
 **Task 3 - Deployment of the model**
 
