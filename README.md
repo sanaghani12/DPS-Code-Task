@@ -1,5 +1,4 @@
 # DPS-Code-Task
-Digital Product School - Code
 
 Task 1 - Historical visualization for number of accidents per category :
 
