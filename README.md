@@ -11,7 +11,7 @@
 
 **Input Values:** [0,0,1,2020]
 **Regressor score:**  0.5466887968970344
-**Predicted value:**  [563] Actual Value: [28]
+**Predicted value:**  [567] Actual Value: [28]
 
 **Prediction Model if we train the model with all the features:**
 
