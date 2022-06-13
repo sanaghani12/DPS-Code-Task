@@ -34,4 +34,15 @@ Type: 'insgesamt
 Year: '2021'
 Month: '01'
 
+**Application hosted:**
+
 Link: https://accidents-prediction.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/91886253/173427202-27e3da0c-92fe-4ed1-abe1-ba8082b1431b.png)
+
+**API Call**
+
+Post API: https://accidents-prediction.herokuapp.com/postapi/predict
+
+![image](https://user-images.githubusercontent.com/91886253/173427442-3580c488-8f8d-431e-9b1e-e91e82284f87.png)
+
